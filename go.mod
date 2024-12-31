@@ -1,4 +1,4 @@
-module github.com/dopensource/dbilling_pinmanagement
+module github.com/dopensource/dbilling-pinmanagement
 
 go 1.23.4
 
